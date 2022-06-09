@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ToDo</string>
+    <string name="hello">Hello</string>
+    <string name="delete">Delete</string>
+    <string name="add_task">Add Task</string>
+    <string name="task_name">選択されたタスク</string>
+    <string name="task_detail">詳細</string>
+    <string name="btn_save">保存</string>
+</resources>
